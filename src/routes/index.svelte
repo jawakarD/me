@@ -1,6 +1,8 @@
 <svelte:head>
-	<title>Welcome to Jawakar's portfolio</title>
+	<title>Jawakar's scribbles</title>
 </svelte:head>
 
-<h1 class="text-3xl mb-12 font-bold underline">Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<header class="lg:mt-16 lg:ml-32 m-6">
+	<h1 class="lg:text-7xl text-4xl mb-12">Jawakar Durai</h1>
+	<p class="text-2xl mb-12">A curios boy grown into a man and stayed curious</p>
+</header>
