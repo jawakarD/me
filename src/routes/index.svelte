@@ -3,7 +3,7 @@
 
 	const posts = [
 		{
-			link: 'https://crypt.codemancers.com/posts/2022-09-28-debugging-frontend/',
+			link: 'https://web.archive.org/web/20221104185709/https://crypt.codemancers.com/posts/2022-09-28-debugging-frontend/',
 			title: 'The Way of the Frontend Debugging',
 			description:
 				'An attempt to put together some debugging experiences, techniques and tools for frontend'
